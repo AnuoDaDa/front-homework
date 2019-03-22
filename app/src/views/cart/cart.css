@@ -1,0 +1,22 @@
+
+.title {
+  padding: 5px 10px;
+  text-align: right;
+  color: #fff;
+}
+
+.price {
+  background-color: #000;
+}
+
+.choosed {
+  background-color: #333;
+}
+
+.total {
+  background-color: #666;
+}
+
+.list {
+  margin: 10px 10px 50px;
+}
